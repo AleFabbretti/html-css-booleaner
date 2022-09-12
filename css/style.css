@@ -77,3 +77,8 @@ margin-bottom: 20px;
 .riga td{
     width: 33%;
 }
+
+.interessi{
+    color: gray;
+    font-size: 15px;
+}
