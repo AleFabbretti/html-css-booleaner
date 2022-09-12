@@ -1,4 +1,4 @@
-.header {
+header {
 background-color: #4EA0FF;
 height: 100px;
 border-top: 30px;
@@ -6,7 +6,7 @@ background-image: url(../img/pattern.png);
 background-size: 400px;
 }
 
-.logo {
-    
+.logo{
+    height: 40px;
+    margin-top: 50px;
 }
-
