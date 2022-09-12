@@ -44,7 +44,7 @@ margin-bottom: 20px;
     padding: 0;
     margin: 0;
     border: 0;
-    font-size: small;
+    font-size: 10px;
 }
 
 .didascalia2{
@@ -53,7 +53,11 @@ margin-bottom: 20px;
     margin: 0;
     border: 0;
     border-bottom: 20p;
-    font-size: small;
+    font-size: 10px;
+}
+
+.giallo{
+    background-color: yellow;
 }
 
 .tabella {
@@ -78,7 +82,17 @@ margin-bottom: 20px;
     width: 33%;
 }
 
+.giallo2{
+    background-color: yellow;
+}
+
 .interessi{
     color: gray;
     font-size: 15px;
+}
+
+.foto1{
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/monitor.jpg);
 }
